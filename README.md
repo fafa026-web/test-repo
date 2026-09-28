@@ -16,3 +16,5 @@ Nackdelar:
 
 Kalle ser ut såhär:
 https://kalleanka.se/app/uploads/Figurer-Kalle-Anka.jpg
+[Läs mer på Wikipedia](htpps://sv.wikipedia.org/eiki/Kalle_Anka)
+
