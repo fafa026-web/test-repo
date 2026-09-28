@@ -15,4 +15,4 @@ Nackdelar:
 -Inga
 
 Kalle ser ut såhär:
-![Kalle Anka](https://upload.wikimedia.org/wikipidea/en/b/b4/Donald_Duck.png)
+https://en.wikipedia.org/wiki/Donald_Duck#/media/File:Donald_Duck_angry_transparent_background.png
