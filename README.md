@@ -15,4 +15,4 @@ Nackdelar:
 -Inga
 
 Kalle ser ut såhär:
-https://en.wikipedia.org/wiki/Donald_Duck#/media/File:Donald_Duck_angry_transparent_background.png
+https://kalleanka.se/app/uploads/Figurer-Kalle-Anka.jpg
