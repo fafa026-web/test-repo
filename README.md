@@ -1,18 +1,18 @@
 # Kalle Anka
 
-Den perfekta maskoten för ossprogrammerare!
+Den perfekta maskoten for oss programmerare!
 
-Födelar:
+Fördelar:
 
--Är en anka
+- Är en anka
 
--Har ett bra namn för tester ochexempel
+- Har ett bra namn för tester och exempel
 
--Billigt att köpa byxor
+- Billigt att köpa byxor
 
 Nackdelar:
 
--Inga
+- Inga
 
 Kalle ser ut såhär:
 https://kalleanka.se/app/uploads/Figurer-Kalle-Anka.jpg
