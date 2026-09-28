@@ -13,3 +13,6 @@ Födelar:
 Nackdelar:
 
 -Inga
+
+Kalle ser ut såhär:
+![Kalle Anka](https://upload.wikimedia.org/wikipidea/en/b/b4/Donald_Duck.png)
